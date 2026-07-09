@@ -1,0 +1,1 @@
+{"n":"N-150","meta":{"brand":"Eurolite","model":"N-150","authors":["Matthias Naumann"],"src":"ofl"},"modes":[{"n":"N-150 4-channel","foot":4,"px":1,"stride":0,"pStart":0,"map":[[31,0],[34,1],[34,2],[34,3]],"pmap":[],"macros":[{"ch":0,"ranges":[[0,13,"Fog"],[14,127,"Select volume on channel 2"],[128,231,"Timer mode"],[232,255,"Fog"]]}]}]}

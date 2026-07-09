@@ -1,0 +1,1 @@
+{"n":"WGF-2000","meta":{"brand":"Stairville","model":"WGF-2000","authors":["CoS2000"],"src":"qlcplus"},"modes":[{"n":"WGF-2000 Default","foot":3,"px":1,"stride":0,"pStart":0,"map":[[0,0],[0,1],[31,2]],"pmap":[],"macros":[{"ch":2,"ranges":[[0,127,"Heavy Mode (Fluid and Water)"],[128,255,"Light Mode (Water only)"]]}]}]}

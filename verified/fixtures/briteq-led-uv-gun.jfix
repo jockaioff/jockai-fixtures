@@ -1,0 +1,1 @@
+{"n":"LED UV-Gun","meta":{"brand":"Briteq","model":"LED UV-Gun","authors":["Freddy Hoogstoel"],"src":"qlcplus"},"modes":[{"n":"LED UV-Gun 1 Channel","foot":1,"px":1,"stride":0,"pStart":0,"map":[[0,0]],"pmap":[]},{"n":"LED UV-Gun 2 Channel","foot":2,"px":1,"stride":0,"pStart":0,"map":[[0,0],[2,1]],"pmap":[]}]}

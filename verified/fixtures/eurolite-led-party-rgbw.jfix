@@ -1,0 +1,1 @@
+{"n":"LED PARty RGBW","meta":{"brand":"Eurolite","model":"LED PARty RGBW","authors":["Heiko Fanieng"],"src":"qlcplus"},"modes":[{"n":"LED PARty RGBW 6 Channel","foot":6,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[7,3],[0,4],[31,5]],"pmap":[],"macros":[{"ch":5,"ranges":[[0,0,"No function"],[1,10,"Sound control"],[11,255,"Strobe (increasing)"]]}]}]}

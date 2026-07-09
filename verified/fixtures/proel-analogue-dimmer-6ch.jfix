@@ -1,0 +1,1 @@
+{"n":"Analogue Dimmer 6Ch","meta":{"brand":"Proel","model":"Analogue Dimmer 6Ch","authors":["Lorenzo Andreani"],"src":"qlcplus"},"modes":[{"n":"Analogue Dimmer 6Ch 6Ch Mode","foot":6,"px":1,"stride":0,"pStart":0,"map":[[0,0],[0,1],[0,2],[0,3],[0,4],[0,5]],"pmap":[]},{"n":"Analogue Dimmer 6Ch 1Ch Group Mode","foot":1,"px":1,"stride":0,"pStart":0,"map":[[0,0]],"pmap":[]}]}

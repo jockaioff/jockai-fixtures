@@ -1,0 +1,1 @@
+[{"id":"rosco-i-cue","brand":"Rosco","model":"I-Cue","type":"moving_head","modes":[{"name":"2 channel","ch":2},{"name":"4 channel","ch":4}],"file":"fixtures/rosco-i-cue.jfix","source":"qlcplus","tags":["scanner","rosco"]}]

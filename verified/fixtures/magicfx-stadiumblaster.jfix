@@ -1,0 +1,1 @@
+{"n":"StadiumBlaster","meta":{"brand":"MagicFX","model":"StadiumBlaster","authors":["Liam Clark"],"src":"qlcplus"},"modes":[{"n":"StadiumBlaster DMX","foot":2,"px":1,"stride":0,"pStart":0,"map":[[32,0],[31,1]],"pmap":[],"macros":[{"ch":0,"ranges":[[0,99,"disabled"],[100,255,"enable"]]},{"ch":1,"ranges":[[0,199,"Valve closed"],[200,255,"Valve open"]]}]}]}

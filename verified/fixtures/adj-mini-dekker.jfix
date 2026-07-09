@@ -1,0 +1,1 @@
+{"n":"Mini Dekker","meta":{"brand":"ADJ","model":"Mini Dekker","authors":["Chris Davis"],"src":"qlcplus"},"modes":[{"n":"Mini Dekker 9 Channel","foot":9,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[7,3],[2,4],[0,5],[29,6],[26,7],[31,8]],"pmap":[],"macros":[{"ch":8,"ranges":[[0,9,"DMX Control ON"],[10,255,"Show Mode"]]}]}]}

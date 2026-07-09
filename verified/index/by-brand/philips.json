@@ -1,0 +1,1 @@
+[{"id":"philips-colorblaze-72","brand":"Philips","model":"ColorBlaze 72","type":"led_bar","modes":[{"name":"1 group","ch":3},{"name":"2 groups","ch":6},{"name":"3 groups","ch":9},{"name":"4 groups","ch":12},{"name":"6 groups","ch":18},{"name":"12 groups","ch":36}],"file":"fixtures/philips-colorblaze-72.jfix","source":"qlcplus","tags":["led bar (pixels)","philips"]}]

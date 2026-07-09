@@ -1,0 +1,1 @@
+{"n":"LED Big PARty TCL Spot","meta":{"brand":"Eurolite","model":"LED Big PARty TCL Spot","authors":["Felix Edelmann"],"src":"ofl"},"modes":[{"n":"LED Big PARty TCL Spot 5-Channel","foot":5,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[0,3],[31,4]],"pmap":[],"macros":[{"ch":4,"ranges":[[0,0,"Off"],[1,5,"Sound Control"],[6,10,"Off"],[11,255,"ShutterStrobe"]]}]}]}

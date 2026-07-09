@@ -1,0 +1,1 @@
+{"n":"Party TCL Spot RGB","meta":{"brand":"Eurolite","model":"Party TCL Spot RGB","authors":["Dirk J"],"src":"qlcplus"},"modes":[{"n":"Party TCL Spot RGB 5 Channel","foot":5,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[0,3],[31,4]],"pmap":[],"macros":[{"ch":4,"ranges":[[0,0,"No function"],[1,5,"Music control"],[6,10,"No function"],[11,255,"Strobe"]]}]}]}

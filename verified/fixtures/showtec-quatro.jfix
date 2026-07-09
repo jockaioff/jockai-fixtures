@@ -1,0 +1,1 @@
+{"n":"Quatro","meta":{"brand":"Showtec","model":"Quatro","authors":["Florian Euchner"],"src":"qlcplus"},"modes":[{"n":"Quatro Default","foot":4,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[34,3]],"pmap":[]},{"n":"Quatro Parallel","foot":1,"px":1,"stride":0,"pStart":0,"map":[[0,0]],"pmap":[]}]}

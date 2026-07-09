@@ -1,0 +1,1 @@
+{"n":"LED SLS-183/10 RGB","meta":{"brand":"Eurolite","model":"LED SLS-183/10 RGB","authors":["Felix Hartnagel"],"src":"qlcplus"},"modes":[{"n":"LED SLS-183/10 RGB 5 channel","foot":5,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[0,3],[31,4]],"pmap":[],"macros":[{"ch":4,"ranges":[[0,0,"ON"],[1,5,"Music control (7 colours)"],[6,10,"ON"],[11,255,"Strobe (min < max)"]]}]}]}

@@ -1,0 +1,1 @@
+{"n":"Slimline 9Q8","meta":{"brand":"LEDJ","model":"Slimline 9Q8","authors":["Jason"],"src":"qlcplus"},"modes":[{"n":"Slimline 9Q8 7 Channel","foot":7,"px":1,"stride":0,"pStart":0,"map":[[0,0],[2,1],[4,2],[5,3],[6,4],[7,5],[31,6]],"pmap":[],"macros":[{"ch":6,"ranges":[[0,4,"No Function"],[5,80,"Colour Macro"],[81,150,"Colour Change"],[151,255,"Colour Fade"]]}]}]}

@@ -1,0 +1,1 @@
+[{"id":"psl-strip-led-rgb-code-k2014","brand":"PSL","model":"Strip Led RGB code K2014","type":"led_bar","modes":[{"name":"5Ch F Mode","ch":5},{"name":"8Ch P Mode (2 Section)","ch":8},{"name":"14Ch A Mode (4 Section)","ch":14}],"file":"fixtures/psl-strip-led-rgb-code-k2014.jfix","source":"qlcplus","tags":["led bar (pixels)","psl"]}]

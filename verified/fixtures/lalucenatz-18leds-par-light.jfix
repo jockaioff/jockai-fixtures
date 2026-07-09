@@ -1,0 +1,1 @@
+{"n":"18LEDs Par Light","meta":{"brand":"LaluceNatz","model":"18LEDs Par Light","authors":["Anomes"],"src":"ofl"},"modes":[{"n":"18LEDs Par Light 4-channel","foot":4,"px":1,"stride":0,"pStart":0,"map":[[0,0],[4,1],[5,2],[6,3]],"pmap":[]},{"n":"18LEDs Par Light 7-channel","foot":7,"px":1,"stride":0,"pStart":0,"map":[[0,0],[4,1],[5,2],[6,3],[27,4],[2,5],[34,6]],"pmap":[]}]}

@@ -1,0 +1,1 @@
+{"n":"PLS25 Par","meta":{"brand":"BeamZ","model":"PLS25 Par","authors":["Marek Jędrzejewski"],"src":"ofl"},"modes":[{"n":"PLS25 Par 6-channel","foot":6,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[7,3],[0,4],[31,5]],"pmap":[],"macros":[{"ch":5,"ranges":[[0,0,"Off"],[1,10,"Effect"],[11,255,"ShutterStrobe"]]}]}]}

@@ -1,0 +1,1 @@
+{"n":"LED D-1000","meta":{"brand":"Eurolite","model":"LED D-1000","authors":["Mark Baar"],"src":"qlcplus"},"modes":[{"n":"LED D-1000 10 Channel","foot":10,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[7,3],[8,4],[34,5],[2,6],[29,7],[31,8],[29,9]],"pmap":[],"macros":[{"ch":8,"ranges":[[0,10,"No function"],[11,200,"Auto DMX"],[201,255,"Sound DMX"]]}]}]}

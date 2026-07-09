@@ -1,0 +1,1 @@
+{"n":"SB400","meta":{"brand":"BeamZ","model":"SB400","authors":["Dmitry Kolesnikov"],"src":"qlcplus"},"modes":[{"n":"SB400 8 Channel","foot":8,"px":1,"stride":0,"pStart":0,"map":[[0,0],[2,1],[31,2],[29,3],[0,4],[0,5],[0,6],[0,7]],"pmap":[],"macros":[{"ch":2,"ranges":[[0,50,"No function"],[51,200,"Macro function"],[201,255,"No function"]]}]}]}

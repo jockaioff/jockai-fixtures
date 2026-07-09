@@ -1,0 +1,1 @@
+{"n":"ATMe","meta":{"brand":"MDG","model":"ATMe","authors":["saimyx"],"src":"qlcplus"},"modes":[{"n":"ATMe 3 Channel","foot":3,"px":1,"stride":0,"pStart":0,"map":[[32,0],[0,1],[32,2]],"pmap":[],"macros":[{"ch":0,"ranges":[[0,127,"Unit OFF"],[128,128,"No function"],[129,255,"Unit ON"]]},{"ch":2,"ranges":[[0,127,"Haze OFF"],[128,128,"No function"],[129,255,"Haze ON"]]}]}]}

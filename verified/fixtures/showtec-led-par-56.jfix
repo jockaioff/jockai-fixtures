@@ -1,0 +1,1 @@
+{"n":"LED Par 56","meta":{"brand":"Showtec","model":"LED Par 56","authors":["Heiko Fanieng"],"src":"qlcplus"},"modes":[{"n":"LED Par 56 6 Channel","foot":6,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[26,3],[29,4],[32,5]],"pmap":[],"macros":[{"ch":5,"ranges":[[0,63,"RGB Control"],[64,127,"7 Color Fade"],[128,191,"7 color change"],[192,255,"music controlled"]]}]}]}

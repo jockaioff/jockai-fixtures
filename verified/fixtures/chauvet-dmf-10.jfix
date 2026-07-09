@@ -1,0 +1,1 @@
+{"n":"DMF-10","meta":{"brand":"Chauvet","model":"DMF-10","authors":["boxr"],"src":"qlcplus"},"modes":[{"n":"DMF-10 Default","foot":6,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[7,3],[29,4],[31,5]],"pmap":[],"macros":[{"ch":5,"ranges":[[0,10,"Static light"],[11,100,"Rotating light"],[101,249,"Auto programs"],[250,255,"Sound active mode"]]}]}]}

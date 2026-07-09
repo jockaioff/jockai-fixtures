@@ -1,0 +1,1 @@
+{"n":"SMART PXL 40 Dot","meta":{"brand":"ENTTEC","model":"SMART PXL 40 Dot","authors":["Yestalgia"],"src":"qlcplus"},"modes":[{"n":"SMART PXL 40 Dot 8-bit - RGB","foot":3,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2]],"pmap":[]},{"n":"SMART PXL 40 Dot 16-bit - RGB","foot":6,"px":1,"stride":0,"pStart":0,"map":[[4,0],[10,1],[5,2],[11,3],[6,4],[12,5]],"pmap":[]}]}

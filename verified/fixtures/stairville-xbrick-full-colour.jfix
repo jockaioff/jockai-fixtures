@@ -1,0 +1,1 @@
+{"n":"xBrick Full-Colour","meta":{"brand":"Stairville","model":"xBrick Full-Colour","authors":["fintch"],"src":"ofl"},"modes":[{"n":"xBrick Full-Colour 5-channel","foot":5,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[0,3],[2,4]],"pmap":[]},{"n":"xBrick Full-Colour 13-channel","foot":13,"px":4,"stride":3,"pStart":0,"map":[[0,12]],"pmap":[[4,0],[5,1],[6,2]]}]}

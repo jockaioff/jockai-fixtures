@@ -1,0 +1,1 @@
+{"n":"I-Cue","meta":{"brand":"Rosco","model":"I-Cue","authors":["Clem"],"src":"qlcplus"},"modes":[{"n":"I-Cue 2 channel","foot":2,"px":1,"stride":0,"pStart":0,"map":[[13,0],[15,1]],"pmap":[]},{"n":"I-Cue 4 channel","foot":4,"px":1,"stride":0,"pStart":0,"map":[[13,0],[14,1],[15,2],[16,3]],"pmap":[]}]}

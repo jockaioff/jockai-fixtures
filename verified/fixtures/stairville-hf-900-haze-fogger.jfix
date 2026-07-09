@@ -1,0 +1,1 @@
+{"n":"HF-900 Haze Fogger","meta":{"brand":"Stairville","model":"HF-900 Haze Fogger","authors":["Gasta"],"src":"qlcplus"},"modes":[{"n":"HF-900 Haze Fogger 3 Channel","foot":3,"px":1,"stride":0,"pStart":0,"map":[[34,0],[34,1],[32,2]],"pmap":[],"macros":[{"ch":2,"ranges":[[0,127,"Haze"],[128,255,"Smoke"]]}]}]}

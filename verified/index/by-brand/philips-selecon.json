@@ -1,0 +1,1 @@
+[{"id":"philips-selecon-plprofile1-mkii","brand":"Philips Selecon","model":"PLProfile1 MkII","type":"par","modes":[{"name":"16-Bit","ch":15},{"name":"8-Bit","ch":9},{"name":"5-Channel","ch":5}],"file":"fixtures/philips-selecon-plprofile1-mkii.jfix","source":"qlcplus","tags":["color changer","philips selecon"]}]

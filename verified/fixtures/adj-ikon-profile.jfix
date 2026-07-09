@@ -1,0 +1,1 @@
+{"n":"Ikon Profile","meta":{"brand":"ADJ","model":"Ikon Profile","authors":["Ham Sadler"],"src":"qlcplus"},"modes":[{"n":"Ikon Profile Default","foot":3,"px":1,"stride":0,"pStart":0,"map":[[2,0],[0,1],[32,2]],"pmap":[],"macros":[{"ch":2,"ranges":[[0,20,"Standard"],[21,40,"Stage"],[41,60,"TV"],[61,80,"Architectural"],[81,100,"Theatre"],[101,255,"Default dimmer setting"]]}]}]}

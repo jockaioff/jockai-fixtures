@@ -1,0 +1,1 @@
+{"n":"LED Trispot","meta":{"brand":"ADJ","model":"LED Trispot","authors":["Patrick"],"src":"qlcplus"},"modes":[{"n":"LED Trispot 3 Channel","foot":3,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2]],"pmap":[]},{"n":"LED Trispot 5 Channel","foot":5,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[2,3],[0,4]],"pmap":[]}]}

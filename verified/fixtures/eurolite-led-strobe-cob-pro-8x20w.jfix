@@ -1,0 +1,1 @@
+{"n":"LED Strobe COB PRO 8x20W","meta":{"brand":"Eurolite","model":"LED Strobe COB PRO 8x20W","authors":["Simeon08"],"src":"qlcplus"},"modes":[{"n":"LED Strobe COB PRO 8x20W Default","foot":5,"px":1,"stride":0,"pStart":0,"map":[[0,0],[2,1],[29,2],[0,3],[31,4]],"pmap":[],"macros":[{"ch":4,"ranges":[[0,9,"Blackout"],[10,255,"Auto programs with increasing speed"]]}]}]}

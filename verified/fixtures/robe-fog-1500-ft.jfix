@@ -1,0 +1,1 @@
+{"n":"Fog 1500 FT","meta":{"brand":"Robe","model":"Fog 1500 FT","authors":["Christian Hollbjär"],"src":"qlcplus"},"modes":[{"n":"Fog 1500 FT 1 Channel","foot":1,"px":1,"stride":0,"pStart":0,"map":[[31,0]],"pmap":[],"macros":[{"ch":0,"ranges":[[0,5,"Fog Off"],[6,249,"Volume 5% - 95%"],[250,255,"Max Volume 100%"]]}]}]}

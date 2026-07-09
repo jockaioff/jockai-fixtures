@@ -1,0 +1,1 @@
+{"n":"EDX-4","meta":{"brand":"Eurolite","model":"EDX-4","authors":["Paul Rogalski"],"src":"ofl"},"modes":[{"n":"EDX-4 1-channel","foot":1,"px":1,"stride":0,"pStart":0,"map":[[0,0]],"pmap":[]},{"n":"EDX-4 4-channel","foot":4,"px":1,"stride":0,"pStart":0,"map":[[0,0],[0,1],[0,2],[0,3]],"pmap":[]}]}

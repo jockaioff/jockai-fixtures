@@ -1,0 +1,1 @@
+[{"id":"bright-xbar","brand":"Bright","model":"XBAR","type":"led_bar","modes":[{"name":"2 Channel","ch":2},{"name":"3 Channel","ch":3},{"name":"12 Channel","ch":12},{"name":"32 Channel","ch":32},{"name":"60 Channel","ch":60},{"name":"96 Channel","ch":96}],"file":"fixtures/bright-xbar.jfix","source":"qlcplus","tags":["led bar (beams)","bright"]}]

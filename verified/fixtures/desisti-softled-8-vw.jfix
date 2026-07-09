@@ -1,0 +1,1 @@
+{"n":"SoftLED 8 VW","meta":{"brand":"Desisti","model":"SoftLED 8 VW","authors":["Lukas Runge","Luke Nelson"],"src":"ofl"},"modes":[{"n":"SoftLED 8 VW SLOT4","foot":3,"px":1,"stride":0,"pStart":0,"map":[[0,0],[34,1],[32,2]],"pmap":[],"macros":[{"ch":2,"ranges":[[0,127,"Linear Mode"],[128,255,"Step Mode"]]}]}]}

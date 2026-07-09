@@ -1,0 +1,1 @@
+[{"id":"mfl-spot-g60","brand":"MFL","model":"Spot G60","type":"moving_head","modes":[{"name":"8 Channel","ch":8},{"name":"12 Channel","ch":12}],"file":"fixtures/mfl-spot-g60.jfix","source":"qlcplus","tags":["moving head","mfl"]}]

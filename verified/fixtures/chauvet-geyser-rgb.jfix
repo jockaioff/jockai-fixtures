@@ -1,0 +1,1 @@
+{"n":"Geyser RGB","meta":{"brand":"Chauvet","model":"Geyser RGB","authors":["Alex Jacobs"],"src":"ofl"},"modes":[{"n":"Geyser RGB 8-channel","foot":8,"px":1,"stride":0,"pStart":0,"map":[[34,0],[4,1],[5,2],[6,3],[27,4],[29,5],[2,6],[0,7]],"pmap":[],"macros":[{"ch":4,"ranges":[[0,9,"Off"],[10,255,"ColorPreset"]]}]}]}

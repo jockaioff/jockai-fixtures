@@ -1,0 +1,1 @@
+{"n":"Geyser P6","meta":{"brand":"Chauvet","model":"Geyser P6","authors":["Andrew"],"src":"qlcplus"},"modes":[{"n":"Geyser P6 10 Channel","foot":10,"px":1,"stride":0,"pStart":0,"map":[[31,0],[0,1],[0,2],[0,3],[0,4],[0,5],[26,6],[29,7],[2,8],[0,9]],"pmap":[],"macros":[{"ch":0,"ranges":[[0,2,"No function"],[3,255,"Fog output on"]]}]}]}

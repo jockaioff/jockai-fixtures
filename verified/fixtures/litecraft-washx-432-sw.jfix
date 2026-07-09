@@ -1,0 +1,1 @@
+{"n":"WashX.432 sw","meta":{"brand":"Litecraft","model":"WashX.432 sw","authors":["Julian Vogel"],"src":"ofl"},"modes":[{"n":"WashX.432 sw 2-channel Macro + Dimmer","foot":2,"px":1,"stride":0,"pStart":0,"map":[[7,0],[0,1]],"pmap":[]},{"n":"WashX.432 sw 2-channel Cold White + Warm White","foot":2,"px":1,"stride":0,"pStart":0,"map":[[7,0],[7,1]],"pmap":[]}]}

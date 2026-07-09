@@ -1,0 +1,1 @@
+{"n":"Tornado","meta":{"brand":"Clay Paky","model":"Tornado","authors":["Thierry Rodolfo"],"src":"qlcplus"},"modes":[{"n":"Tornado Standard","foot":8,"px":1,"stride":0,"pStart":0,"map":[[26,0],[31,1],[13,2],[15,3],[13,4],[15,5],[13,6],[15,7]],"pmap":[],"macros":[{"ch":1,"ranges":[[0,127,"Dimmer Min -> Max"],[128,139,"Open"],[140,241,"Strobe 0.66Hz -> 5Hz"],[242,255,"Open"]]}]}]}

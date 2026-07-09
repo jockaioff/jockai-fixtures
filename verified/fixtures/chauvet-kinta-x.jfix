@@ -1,0 +1,1 @@
+{"n":"Kinta X","meta":{"brand":"Chauvet","model":"Kinta X","authors":["Mikey Rowlands"],"src":"ofl"},"modes":[{"n":"Kinta X 2-channel","foot":2,"px":1,"stride":0,"pStart":0,"map":[[0,0],[31,1]],"pmap":[],"macros":[{"ch":1,"ranges":[[0,85,"Rotation"],[86,170,"Rotation"],[171,255,"Rotation bounce"]]}]}]}

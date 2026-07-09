@@ -1,0 +1,1 @@
+[{"id":"xstatic-x-240bar-rgb","brand":"XStatic","model":"X-240Bar RGB","type":"led_bar","modes":[{"name":"2 Channel","ch":2},{"name":"3 Channel","ch":3},{"name":"4 Channel","ch":4},{"name":"7 Channel","ch":7},{"name":"14 Channel","ch":14},{"name":"26 Channel","ch":26}],"file":"fixtures/xstatic-x-240bar-rgb.jfix","source":"qlcplus","tags":["led bar (pixels)","xstatic"]}]

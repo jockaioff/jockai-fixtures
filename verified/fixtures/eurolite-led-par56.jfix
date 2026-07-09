@@ -1,0 +1,1 @@
+{"n":"LED PAR56","meta":{"brand":"Eurolite","model":"LED PAR56","authors":["Heikki Junnila"],"src":"qlcplus"},"modes":[{"n":"LED PAR56 Mode 1","foot":6,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[26,3],[29,4],[0,5]],"pmap":[],"cw":[[156,255,255,255,"White 1"],[164,255,255,255,"White 2"],[172,255,255,255,"White 3"]]}]}

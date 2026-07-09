@@ -1,0 +1,1 @@
+{"n":"LED PARty Spot","meta":{"brand":"Eurolite","model":"LED PARty Spot","authors":["Felix Edelmann"],"src":"ofl"},"modes":[{"n":"LED PARty Spot 6-Channel","foot":6,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[7,3],[0,4],[31,5]],"pmap":[],"macros":[{"ch":5,"ranges":[[0,0,"Off"],[1,10,"Sound Control"],[11,255,"ShutterStrobe"]]}]}]}

@@ -1,0 +1,1 @@
+{"n":"LED Theater Spot 100","meta":{"brand":"Varytec","model":"LED Theater Spot 100","authors":["benni"],"src":"ofl"},"modes":[{"n":"LED Theater Spot 100 1-channel","foot":1,"px":1,"stride":0,"pStart":0,"map":[[0,0]],"pmap":[]},{"n":"LED Theater Spot 100 2-channel","foot":2,"px":1,"stride":0,"pStart":0,"map":[[0,0],[2,1]],"pmap":[]}]}

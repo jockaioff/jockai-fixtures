@@ -1,0 +1,1 @@
+{"n":"ARS1500FC","meta":{"brand":"Sagitter","model":"ARS1500FC","authors":["Alessandro Caseti"],"src":"qlcplus"},"modes":[{"n":"ARS1500FC 7 Channel","foot":7,"px":1,"stride":0,"pStart":0,"map":[[31,0],[0,1],[26,2],[2,3],[4,4],[5,5],[6,6]],"pmap":[],"macros":[{"ch":0,"ranges":[[0,9,"No funcion"],[10,255,"Smoke output"]]}]}]}

@@ -1,0 +1,1 @@
+{"n":"SlimSTRIP UV-18 IRC","meta":{"brand":"Chauvet","model":"SlimSTRIP UV-18 IRC","authors":["DJ Kozz"],"src":"qlcplus"},"modes":[{"n":"SlimSTRIP UV-18 IRC 3 channel","foot":3,"px":1,"stride":0,"pStart":0,"map":[[2,0],[0,1],[31,2]],"pmap":[],"macros":[{"ch":2,"ranges":[[0,10,"No function"],[11,255,"Sound Active"]]}]}]}

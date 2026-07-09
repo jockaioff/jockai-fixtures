@@ -1,0 +1,1 @@
+{"n":"UVStrip18","meta":{"brand":"Pro-Lights","model":"UVStrip18","authors":["Alessandro Grechi"],"src":"qlcplus"},"modes":[{"n":"UVStrip18 3 Ch","foot":3,"px":1,"stride":0,"pStart":0,"map":[[29,0],[0,1],[31,2]],"pmap":[],"macros":[{"ch":2,"ranges":[[0,10,"No function"],[11,255,"Sound Control"]]}]}]}

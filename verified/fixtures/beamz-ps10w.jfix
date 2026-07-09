@@ -1,0 +1,1 @@
+{"n":"PS10W","meta":{"brand":"BeamZ","model":"PS10W","authors":["Jesper Korsen"],"src":"qlcplus"},"modes":[{"n":"PS10W 4 Channel","foot":4,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[7,3]],"pmap":[]},{"n":"PS10W 7 Channel","foot":7,"px":1,"stride":0,"pStart":0,"map":[[0,0],[4,1],[5,2],[6,3],[7,4],[2,5],[26,6]],"pmap":[]}]}

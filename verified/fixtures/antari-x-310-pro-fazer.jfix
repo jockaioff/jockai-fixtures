@@ -1,0 +1,1 @@
+{"n":"X-310 Pro Fazer","meta":{"brand":"Antari","model":"X-310 Pro Fazer","authors":["Flox Garden"],"src":"qlcplus"},"modes":[{"n":"X-310 Pro Fazer 2 Channel","foot":2,"px":1,"stride":0,"pStart":0,"map":[[31,0],[31,1]],"pmap":[],"macros":[{"ch":0,"ranges":[[0,85,"Slow"],[86,170,"Medium"],[171,255,"Fast"]]},{"ch":1,"ranges":[[0,5,"Off"],[6,255,"Volume control"]]}]}]}

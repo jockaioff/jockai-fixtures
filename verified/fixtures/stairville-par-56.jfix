@@ -1,0 +1,1 @@
+{"n":"PAR 56","meta":{"brand":"Stairville","model":"PAR 56","authors":["Moritz A. Vieli"],"src":"ofl"},"modes":[{"n":"PAR 56 5-channel","foot":5,"px":1,"stride":0,"pStart":0,"map":[[31,0],[4,1],[5,2],[6,3],[29,4]],"pmap":[],"macros":[{"ch":0,"ranges":[[0,63,"RGB Control"],[64,127,"7 color fades"],[128,191,"7 color changes"],[192,255,"3 color changes"]]}]}]}

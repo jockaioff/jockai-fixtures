@@ -1,0 +1,1 @@
+{"n":"LED PAR 18x3W UV","meta":{"brand":"Light4me","model":"LED PAR 18x3W UV","authors":["Flo Edelmann"],"src":"ofl"},"modes":[{"n":"LED PAR 18x3W UV 7-channel","foot":7,"px":1,"stride":0,"pStart":0,"map":[[0,0],[9,1],[9,2],[9,3],[29,4],[2,5],[31,6]],"pmap":[],"macros":[{"ch":6,"ranges":[[0,0,"Off"],[1,255,"Macros"]]}]}]}

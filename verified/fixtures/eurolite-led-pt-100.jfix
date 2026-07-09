@@ -1,0 +1,1 @@
+{"n":"LED PT-100","meta":{"brand":"Eurolite","model":"LED PT-100","authors":["Edgar Aichinger"],"src":"qlcplus"},"modes":[{"n":"LED PT-100 48-Channel","foot":48,"px":16,"stride":3,"pStart":0,"map":[],"pmap":[[4,0],[5,1],[6,2]]}]}

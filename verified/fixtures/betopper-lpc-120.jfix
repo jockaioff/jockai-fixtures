@@ -1,0 +1,1 @@
+{"n":"LPC-120","meta":{"brand":"Betopper","model":"LPC-120","authors":["Loris Mercier"],"src":"qlcplus"},"modes":[{"n":"LPC-120 4 Channel","foot":4,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[7,3]],"pmap":[]},{"n":"LPC-120 8 Channel","foot":8,"px":1,"stride":0,"pStart":0,"map":[[0,0],[4,1],[5,2],[6,3],[7,4],[2,5],[26,6],[29,7]],"pmap":[]}]}

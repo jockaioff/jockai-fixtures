@@ -1,0 +1,1 @@
+{"n":"Quad Pro Flat","meta":{"brand":"AVE","model":"Quad Pro Flat","authors":["Mark Sy"],"src":"qlcplus"},"modes":[{"n":"Quad Pro Flat 8 Channel","foot":8,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[7,3],[0,4],[2,5],[26,6],[29,7]],"pmap":[]},{"n":"Quad Pro Flat 4 Channel","foot":4,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2],[7,3]],"pmap":[]}]}

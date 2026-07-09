@@ -1,0 +1,1 @@
+{"n":"EC-133DMX","meta":{"brand":"Enterius","model":"EC-133DMX","authors":["Krzysztof Ratynski"],"src":"qlcplus"},"modes":[{"n":"EC-133DMX 3 channel dimmer","foot":3,"px":1,"stride":0,"pStart":0,"map":[[0,0],[0,1],[0,2]],"pmap":[]},{"n":"EC-133DMX RGB controller","foot":3,"px":1,"stride":0,"pStart":0,"map":[[4,0],[5,1],[6,2]],"pmap":[]}]}
